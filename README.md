@@ -36,4 +36,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
+
+## How to use
+
+To use this website on your device first you have to install node modules on your device
+for this, go to terminal and type :
+install npm -i
+
+## How to run
+
+to run this webapp on your localhost use the following command :
+npm run dev
+
+<b>Congrats</b> ! you have successfully run the application on your device .
+<hr>
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
